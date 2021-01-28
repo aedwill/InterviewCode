@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>EdwardWilliams.ExampleApps.Libraries.ImageHandling</RootNamespace>
+    <AssemblyName>EdwardWilliams.ExampleApps.Libraries.ImageHandling</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>Ed Williams</Authors>
+    <Company>Tech Resource Specialties, Inc</Company>
+    <Product />
+    <Copyright>(C) 2021 Tech Resource Specialties, Inc</Copyright>
+  </PropertyGroup>
+</Project>
